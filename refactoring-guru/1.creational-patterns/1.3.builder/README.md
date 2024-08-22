@@ -1,4 +1,4 @@
-- [Factory Method Doc Link](https://refactoring.guru/design-patterns/builder)
+- [Builder Doc Link](https://refactoring.guru/design-patterns/builder)
 
 - [Typescript Code Example Link](https://refactoring.guru/design-patterns/builder/typescript/example)
 
